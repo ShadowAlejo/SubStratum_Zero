@@ -1,0 +1,590 @@
+fileFormatVersion: 2
+guid: a7f66738144c6734d9d1b2962073c7d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -929040761274210741
+    second: Game_Over_0
+  - first:
+      213: -5211881768589059910
+    second: Game_Over_1
+  - first:
+      213: 6341695614942971254
+    second: Game_Over_2
+  - first:
+      213: -6720361829535493499
+    second: Game_Over_3
+  - first:
+      213: 5308645029716607822
+    second: Game_Over_4
+  - first:
+      213: 5292991238942338674
+    second: Game_Over_5
+  - first:
+      213: -5400957067256368813
+    second: Game_Over_6
+  - first:
+      213: 8364573006097105553
+    second: Game_Over_7
+  - first:
+      213: -7245743554935279248
+    second: Game_Over_8
+  - first:
+      213: 2723962450017039686
+    second: Game_Over_9
+  - first:
+      213: 3781276947479015834
+    second: Game_Over_10
+  - first:
+      213: -488464024374531654
+    second: Game_Over_11
+  - first:
+      213: 4874043176269135878
+    second: Game_Over_12
+  - first:
+      213: -2822573030878139011
+    second: Game_Over_13
+  - first:
+      213: 454172624653474
+    second: Game_Over_14
+  - first:
+      213: 2711093752361695030
+    second: Game_Over_15
+  - first:
+      213: 4728379156816131719
+    second: Game_Over_16
+  - first:
+      213: 1812182616256740579
+    second: Game_Over_17
+  - first:
+      213: 856582665075219592
+    second: Game_Over_18
+  - first:
+      213: 3197708394254350746
+    second: Game_Over_19
+  - first:
+      213: 4203723490812538762
+    second: Game_Over_20
+  - first:
+      213: 7428183524718548751
+    second: Game_Over_21
+  - first:
+      213: 6357114319445238857
+    second: Game_Over_22
+  - first:
+      213: 7614506217552779925
+    second: Game_Over_23
+  - first:
+      213: -7121537011764418947
+    second: Game_Over_24
+  - first:
+      213: 825058792855162126
+    second: Game_Over_25
+  - first:
+      213: 4031391217568049989
+    second: Game_Over_26
+  - first:
+      213: 1891044421433657358
+    second: Game_Over_27
+  - first:
+      213: -3756392041403292704
+    second: Game_Over_28
+  - first:
+      213: -8802033604894203051
+    second: Game_Over_29
+  - first:
+      213: 3835378142777259253
+    second: Game_Over_30
+  - first:
+      213: -638953209538099310
+    second: Game_Over_31
+  - first:
+      213: 1216206025405929051
+    second: Game_Over_32
+  - first:
+      213: -8192593877161280062
+    second: Game_Over_33
+  - first:
+      213: 8490990903075768402
+    second: Game_Over_34
+  - first:
+      213: 2862109313237432677
+    second: Game_Over_35
+  - first:
+      213: -7032686850296642067
+    second: Game_Over_36
+  - first:
+      213: 4710081452833365223
+    second: Game_Over_37
+  - first:
+      213: -6737973598783682018
+    second: Game_Over_38
+  - first:
+      213: -74659646893075732
+    second: Game_Over_39
+  - first:
+      213: -5673818397264982225
+    second: Game_Over_40
+  - first:
+      213: 6268477476660435982
+    second: Game_Over_41
+  - first:
+      213: 8748469862285027336
+    second: Game_Over_42
+  - first:
+      213: -2755940312850777631
+    second: Game_Over_43
+  - first:
+      213: -8412582980178041534
+    second: Game_Over_44
+  - first:
+      213: 6363691360259524661
+    second: Game_Over_45
+  - first:
+      213: -1989134753244005677
+    second: Game_Over_46
+  - first:
+      213: 1276125591799833275
+    second: Game_Over_47
+  - first:
+      213: -7041866086145552866
+    second: Game_Over_48
+  - first:
+      213: 1654478961194176953
+    second: Game_Over_49
+  - first:
+      213: 1685370183970202115
+    second: Game_Over_50
+  - first:
+      213: -4989392745083178250
+    second: Game_Over_51
+  - first:
+      213: -4920252987590093745
+    second: Game_Over_52
+  - first:
+      213: -8087395794317431984
+    second: Game_Over_53
+  - first:
+      213: -593967924939775459
+    second: Game_Over_54
+  - first:
+      213: 8920071967991397353
+    second: Game_Over_55
+  - first:
+      213: 338535195249670711
+    second: Game_Over_56
+  - first:
+      213: -4756078834574977554
+    second: Game_Over_57
+  - first:
+      213: -6271780881631161726
+    second: Game_Over_58
+  - first:
+      213: 3201948568537039075
+    second: Game_Over_59
+  - first:
+      213: -7577714328957422272
+    second: Game_Over_60
+  - first:
+      213: 4959436620905110223
+    second: Game_Over_61
+  - first:
+      213: 4653201848136753668
+    second: Game_Over_62
+  - first:
+      213: -8502777117905745632
+    second: Game_Over_63
+  - first:
+      213: -4358389592749769336
+    second: Game_Over_64
+  - first:
+      213: 3298561287981182806
+    second: Game_Over_65
+  - first:
+      213: -7832813761462797774
+    second: Game_Over_66
+  - first:
+      213: 6957971357889420031
+    second: Game_Over_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Over_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 926
+        width: 655
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46646299526b13f0800000000000000
+      internalID: -929040761274210741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_1
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 924
+        width: 706
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b769ab46e22d334aadd740886631eb1
+      internalID: -5211881768589059910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_2
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 907
+        width: 653
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452335c352453f349951ea7ee10af648
+      internalID: 6341695614942971254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 486
+        width: 634
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70726d8e59d2a945a6c5f7bb3c00708
+      internalID: -6720361829535493499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 424
+        width: 760
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77fa502d30804948b9102c0be54d841
+      internalID: 5308645029716607822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_5
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 431
+        width: 731
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826f289418bf2c145bd3bfb444258121
+      internalID: 5292991238942338674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 75
+        width: 629
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d8992fbceb25b4ca405a2f2a3b9a58
+      internalID: -5400957067256368813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_7
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 76
+        width: 634
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0380751ee57ef44db277f97e911f0ba
+      internalID: 8364573006097105553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Over_8
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 78
+        width: 617
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63196e59b2f90a84eb843cf0a14dbcb6
+      internalID: -7245743554935279248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 63306cbff8dd94f498dfc49e4b35671a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":2400.0,"y":1340.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Game_Over_0: -929040761274210741
+      Game_Over_1: -5211881768589059910
+      Game_Over_10: -1823756776
+      Game_Over_11: 554604207
+      Game_Over_12: 1929569518
+      Game_Over_13: -944278770
+      Game_Over_14: -229023034
+      Game_Over_15: -1875984636
+      Game_Over_16: -208251988
+      Game_Over_17: 1962823206
+      Game_Over_18: -338320058
+      Game_Over_19: -954869759
+      Game_Over_2: 6341695614942971254
+      Game_Over_20: -1592110893
+      Game_Over_21: -191665729
+      Game_Over_22: -403089618
+      Game_Over_23: -867409256
+      Game_Over_24: 106590563
+      Game_Over_25: 1631614028
+      Game_Over_26: 1178080655
+      Game_Over_27: -180744103
+      Game_Over_28: -59302816
+      Game_Over_29: 2111179414
+      Game_Over_3: -6720361829535493499
+      Game_Over_30: 1259476968
+      Game_Over_31: -1197303351
+      Game_Over_32: -990290645
+      Game_Over_33: -1316230926
+      Game_Over_34: -511173087
+      Game_Over_35: 853224393
+      Game_Over_36: -207787643
+      Game_Over_37: 1446727253
+      Game_Over_38: 847349092
+      Game_Over_39: -629644341
+      Game_Over_4: 5308645029716607822
+      Game_Over_40: -74324182
+      Game_Over_41: 707947200
+      Game_Over_42: -402229153
+      Game_Over_43: -242657962
+      Game_Over_44: 1850947865
+      Game_Over_45: 1745012244
+      Game_Over_46: -1368316665
+      Game_Over_47: -976492207
+      Game_Over_48: 1526985126
+      Game_Over_49: 63801203
+      Game_Over_5: 5292991238942338674
+      Game_Over_50: -1525744618
+      Game_Over_51: 1472995537
+      Game_Over_52: -1283376864
+      Game_Over_53: 381873687
+      Game_Over_54: 202385954
+      Game_Over_55: -546753448
+      Game_Over_56: 131770361
+      Game_Over_57: -1305475775
+      Game_Over_58: 166030846
+      Game_Over_59: 1167771277
+      Game_Over_6: -5400957067256368813
+      Game_Over_60: -1109312168
+      Game_Over_61: -10943462
+      Game_Over_62: -589825597
+      Game_Over_63: 151370298
+      Game_Over_64: 1288139146
+      Game_Over_65: -1584581258
+      Game_Over_66: -420622665
+      Game_Over_67: 1730882941
+      Game_Over_68: 435528768
+      Game_Over_7: 8364573006097105553
+      Game_Over_8: -7245743554935279248
+      Game_Over_9: 830653703
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

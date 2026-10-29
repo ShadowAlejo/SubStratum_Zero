@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: a26f682b6400678458d733bec17d7926
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2911416077253475853
+    second: fly_enemy_0
+  - first:
+      213: 712478638347787051
+    second: fly_enemy_1
+  - first:
+      213: 266130801719402586
+    second: fly_enemy_2
+  - first:
+      213: 740761118655948225
+    second: fly_enemy_3
+  - first:
+      213: 2214305540961126088
+    second: fly_enemy_4
+  - first:
+      213: -2172027970854520085
+    second: fly_enemy_5
+  - first:
+      213: 3541755388657363791
+    second: fly_enemy_6
+  - first:
+      213: 5944208786404889838
+    second: fly_enemy_7
+  - first:
+      213: 4151322013830529911
+    second: fly_enemy_8
+  - first:
+      213: 5992935265076047551
+    second: fly_enemy_9
+  - first:
+      213: -5071844000317286312
+    second: fly_enemy_10
+  - first:
+      213: -4333067873668039840
+    second: fly_enemy_11
+  - first:
+      213: -1397393704299167260
+    second: fly_enemy_12
+  - first:
+      213: -1134331997507986326
+    second: fly_enemy_13
+  - first:
+      213: 1727615443793245863
+    second: fly_enemy_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fly_enemy_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 168
+        width: 333
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0efd063f7d676820800000000000000
+      internalID: 2911416077253475853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_enemy_1
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 161
+        width: 340
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b16c4fb8b33e900800000000000000
+      internalID: 712478638347787051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_enemy_2
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 199
+        width: 262
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50664cdd8c71b300800000000000000
+      internalID: 266130801719402586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_enemy_4
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 134
+        width: 271
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6ca29582bcabe10800000000000000
+      internalID: 2214305540961126088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_enemy_5
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 191
+        width: 273
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaf00381186bd1e0800000000000000
+      internalID: -2172027970854520085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_enemy_6
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 146
+        width: 321
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b6f3ec2c7d62130800000000000000
+      internalID: 3541755388657363791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_enemy_7
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 155
+        width: 326
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee45b60c5621e7250800000000000000
+      internalID: 5944208786404889838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_enemy_8
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 174
+        width: 348
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773c0ae70657c9930800000000000000
+      internalID: 4151322013830529911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9d03a37fab658614c8b009054d7473eb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fly_enemy_0: 2911416077253475853
+      fly_enemy_1: 712478638347787051
+      fly_enemy_10: -5071844000317286312
+      fly_enemy_11: -4333067873668039840
+      fly_enemy_12: -1397393704299167260
+      fly_enemy_13: -1134331997507986326
+      fly_enemy_14: 1727615443793245863
+      fly_enemy_2: 266130801719402586
+      fly_enemy_3: 740761118655948225
+      fly_enemy_4: 2214305540961126088
+      fly_enemy_5: -2172027970854520085
+      fly_enemy_6: 3541755388657363791
+      fly_enemy_7: 5944208786404889838
+      fly_enemy_8: 4151322013830529911
+      fly_enemy_9: 5992935265076047551
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

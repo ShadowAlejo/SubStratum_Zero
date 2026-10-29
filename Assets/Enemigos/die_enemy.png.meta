@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 64f948bb720a4a441acb5c446db40249
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -740167723726240027
+    second: die_enemy_0
+  - first:
+      213: 2348787976853656808
+    second: die_enemy_1
+  - first:
+      213: 6034083179535485942
+    second: die_enemy_2
+  - first:
+      213: -5029309619074095789
+    second: die_enemy_3
+  - first:
+      213: -6053796998437678421
+    second: die_enemy_4
+  - first:
+      213: -1619943745783235514
+    second: die_enemy_5
+  - first:
+      213: -4186309654531623331
+    second: die_enemy_6
+  - first:
+      213: 7432240719305567663
+    second: die_enemy_7
+  - first:
+      213: 1146732053842049087
+    second: die_enemy_8
+  - first:
+      213: 8798498593455168305
+    second: die_enemy_9
+  - first:
+      213: 5196208925767201753
+    second: die_enemy_10
+  - first:
+      213: 2737978985425270948
+    second: die_enemy_11
+  - first:
+      213: 2562030728824050054
+    second: die_enemy_12
+  - first:
+      213: -8482588205308599146
+    second: die_enemy_13
+  - first:
+      213: -2758579386202155924
+    second: die_enemy_14
+  - first:
+      213: 8814549693449494737
+    second: die_enemy_15
+  - first:
+      213: 8088087834945973936
+    second: die_enemy_16
+  - first:
+      213: -879288945632762341
+    second: die_enemy_17
+  - first:
+      213: -6090088213253087014
+    second: die_enemy_18
+  - first:
+      213: 8304608431489043478
+    second: die_enemy_19
+  - first:
+      213: 6574157895663227838
+    second: die_enemy_20
+  - first:
+      213: -1232236935877481483
+    second: die_enemy_21
+  - first:
+      213: 3271983570390516878
+    second: die_enemy_22
+  - first:
+      213: -3218596361023605775
+    second: die_enemy_23
+  - first:
+      213: 8433046394810255146
+    second: die_enemy_24
+  - first:
+      213: -9034030492368783265
+    second: die_enemy_25
+  - first:
+      213: -3434237010320393958
+    second: die_enemy_26
+  - first:
+      213: 5713382973787429362
+    second: die_enemy_27
+  - first:
+      213: 4735252264718396733
+    second: die_enemy_28
+  - first:
+      213: -6357865404549140064
+    second: die_enemy_29
+  - first:
+      213: -4427580368672203691
+    second: die_enemy_30
+  - first:
+      213: -7794080181348141948
+    second: die_enemy_31
+  - first:
+      213: -8550597129495763571
+    second: die_enemy_32
+  - first:
+      213: -246828673715227769
+    second: die_enemy_33
+  - first:
+      213: 1890533935883892696
+    second: die_enemy_34
+  - first:
+      213: -6360933149741665150
+    second: die_enemy_35
+  - first:
+      213: -1771622596532108436
+    second: die_enemy_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: die_enemy_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 69
+        width: 362
+        height: 365
+      alignment: 9
+      pivot: {x: 0.55, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6861970656ab5f0800000000000000
+      internalID: -740167723726240027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_enemy_1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 85
+        width: 349
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5988114, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e412157832989020800000000000000
+      internalID: 2348787976853656808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_enemy_2
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 83
+        width: 376
+        height: 306
+      alignment: 9
+      pivot: {x: 0.57476836, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb4f5d8eae5db350800000000000000
+      internalID: 6034083179535485942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_enemy_3
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 78
+        width: 400
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5, y: 0.68}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35522a14c8d443ab0800000000000000
+      internalID: -5029309619074095789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_enemy_4
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 86
+        width: 397
+        height: 270
+      alignment: 9
+      pivot: {x: 0.50637597, y: 0.65074724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2dbcd44b79cfba0800000000000000
+      internalID: -6053796998437678421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die_enemy_5
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 79
+        width: 408
+        height: 281
+      alignment: 9
+      pivot: {x: 0.5066265, y: 0.7003544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c797cfebdc489e0800000000000000
+      internalID: -1619943745783235514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bac3f334379a8f84c937d0456ee9d7b7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      die_enemy_0: -740167723726240027
+      die_enemy_1: 2348787976853656808
+      die_enemy_10: 5196208925767201753
+      die_enemy_11: 2737978985425270948
+      die_enemy_12: 2562030728824050054
+      die_enemy_13: -8482588205308599146
+      die_enemy_14: -2758579386202155924
+      die_enemy_15: 8814549693449494737
+      die_enemy_16: 8088087834945973936
+      die_enemy_17: -879288945632762341
+      die_enemy_18: -6090088213253087014
+      die_enemy_19: 8304608431489043478
+      die_enemy_2: 6034083179535485942
+      die_enemy_20: 6574157895663227838
+      die_enemy_21: -1232236935877481483
+      die_enemy_22: 3271983570390516878
+      die_enemy_23: -3218596361023605775
+      die_enemy_24: 8433046394810255146
+      die_enemy_25: -9034030492368783265
+      die_enemy_26: -3434237010320393958
+      die_enemy_27: 5713382973787429362
+      die_enemy_28: 4735252264718396733
+      die_enemy_29: -6357865404549140064
+      die_enemy_3: -5029309619074095789
+      die_enemy_30: -4427580368672203691
+      die_enemy_31: -7794080181348141948
+      die_enemy_32: -8550597129495763571
+      die_enemy_33: -246828673715227769
+      die_enemy_34: 1890533935883892696
+      die_enemy_35: -6360933149741665150
+      die_enemy_36: -1771622596532108436
+      die_enemy_4: -6053796998437678421
+      die_enemy_5: -1619943745783235514
+      die_enemy_6: -4186309654531623331
+      die_enemy_7: 7432240719305567663
+      die_enemy_8: 1146732053842049087
+      die_enemy_9: 8798498593455168305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

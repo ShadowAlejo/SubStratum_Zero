@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 2c8849fb41b4c0d488413e292ec83175
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2463600499372268542
+    second: player_atack_up_0
+  - first:
+      213: -6402130514582010716
+    second: player_atack_up_1
+  - first:
+      213: 5143877642280554222
+    second: player_atack_up_2
+  - first:
+      213: 684170958306047271
+    second: player_atack_up_3
+  - first:
+      213: -4580460626687627809
+    second: player_atack_up_4
+  - first:
+      213: -921176771438130668
+    second: player_atack_up_5
+  - first:
+      213: 8273673351511993277
+    second: player_atack_up_6
+  - first:
+      213: 7693924543216410276
+    second: player_atack_up_7
+  - first:
+      213: -3557752494281753371
+    second: player_atack_up_8
+  - first:
+      213: 1852108040387340230
+    second: player_atack_up_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_atack_up_1
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 23
+        width: 272
+        height: 429
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3212133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a486a887301727a0800000000000000
+      internalID: -6402130514582010716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_atack_up_0
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 23
+        width: 253
+        height: 460
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28469995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952587c08e86ac044bb27823fb42f8d2
+      internalID: 2463600499372268542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_atack_up_7
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 23
+        width: 236
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34339347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c834c754edded304ab1a24c60060e502
+      internalID: 7693924543216410276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_atack_up_8
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 23
+        width: 230
+        height: 314
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4267477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd44ce918a6d99140a1c47acff07b883
+      internalID: 185290624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_atack_up_9
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 28
+        width: 272
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8f6809c8cbbdc40b498a8092e09e16
+      internalID: -1797050707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_atack_up_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 16
+        width: 226
+        height: 308
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.4290791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9360ff80effd31448ccdc69f316c6b0
+      internalID: 296259747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_atack_up_6
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 23
+        width: 235
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5e69c9f21a09046b510e67c1753646
+      internalID: 8273673351511993277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 828eb42dc55f8654aab2c10e0b971990
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      player_atack_up_0: 2463600499372268542
+      player_atack_up_1: -6402130514582010716
+      player_atack_up_2: -1610019228
+      player_atack_up_3: 684170958306047271
+      player_atack_up_4: 430396703
+      player_atack_up_5: 296259747
+      player_atack_up_6: 8273673351511993277
+      player_atack_up_7: 7693924543216410276
+      player_atack_up_8: 185290624
+      player_atack_up_9: -1797050707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

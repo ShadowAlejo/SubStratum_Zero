@@ -1,0 +1,2622 @@
+fileFormatVersion: 2
+guid: 483540f0c05e57a41914815672023bfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4739872168859234945
+    second: mapa_dos_0
+  - first:
+      213: -4797576466616017385
+    second: mapa_dos_1
+  - first:
+      213: 6156495828333599313
+    second: mapa_dos_2
+  - first:
+      213: -2938405108157952711
+    second: mapa_dos_3
+  - first:
+      213: -7952071183953470285
+    second: mapa_dos_4
+  - first:
+      213: 8860195380603575919
+    second: mapa_dos_5
+  - first:
+      213: 5635278037533047291
+    second: mapa_dos_6
+  - first:
+      213: -2586421297944609041
+    second: mapa_dos_7
+  - first:
+      213: -1653811611190130462
+    second: mapa_dos_8
+  - first:
+      213: 9094712753431548118
+    second: mapa_dos_9
+  - first:
+      213: 2713829324272350967
+    second: mapa_dos_10
+  - first:
+      213: 1962745997174917614
+    second: mapa_dos_11
+  - first:
+      213: -1361228711434439218
+    second: mapa_dos_12
+  - first:
+      213: -1597694792211663912
+    second: mapa_dos_13
+  - first:
+      213: -8212913960055677154
+    second: mapa_dos_14
+  - first:
+      213: 219800055814488574
+    second: mapa_dos_15
+  - first:
+      213: -2399998743400406919
+    second: mapa_dos_16
+  - first:
+      213: 130556159088245556
+    second: mapa_dos_17
+  - first:
+      213: -8573475398214848500
+    second: mapa_dos_18
+  - first:
+      213: -1395776699701540931
+    second: mapa_dos_19
+  - first:
+      213: -4597394764834318372
+    second: mapa_dos_20
+  - first:
+      213: 7853063658451190381
+    second: mapa_dos_21
+  - first:
+      213: -2047628100559257724
+    second: mapa_dos_22
+  - first:
+      213: -4797160607770478871
+    second: mapa_dos_23
+  - first:
+      213: 3072503489413274003
+    second: mapa_dos_24
+  - first:
+      213: -5406766727007739468
+    second: mapa_dos_25
+  - first:
+      213: 4048295049673965685
+    second: mapa_dos_26
+  - first:
+      213: 2954948570846419024
+    second: mapa_dos_27
+  - first:
+      213: 7252403929131049084
+    second: mapa_dos_28
+  - first:
+      213: 4842679045551324669
+    second: mapa_dos_29
+  - first:
+      213: 4433113731912373896
+    second: mapa_dos_30
+  - first:
+      213: 4007169448896930445
+    second: mapa_dos_31
+  - first:
+      213: -6007444266712572094
+    second: mapa_dos_32
+  - first:
+      213: -1979432250757429830
+    second: mapa_dos_33
+  - first:
+      213: 4994800103751568317
+    second: mapa_dos_34
+  - first:
+      213: -7184999710265633871
+    second: mapa_dos_35
+  - first:
+      213: -3382520380010521261
+    second: mapa_dos_36
+  - first:
+      213: -1013150764303730016
+    second: mapa_dos_37
+  - first:
+      213: -6970270310371679211
+    second: mapa_dos_38
+  - first:
+      213: 4253036634942263968
+    second: mapa_dos_39
+  - first:
+      213: 3704314610146094425
+    second: mapa_dos_40
+  - first:
+      213: 2075416891783487397
+    second: mapa_dos_41
+  - first:
+      213: 923938613351650572
+    second: mapa_dos_42
+  - first:
+      213: 6095312573522185219
+    second: mapa_dos_43
+  - first:
+      213: 3001103075906269307
+    second: mapa_dos_44
+  - first:
+      213: 6561486306392105062
+    second: mapa_dos_45
+  - first:
+      213: -1699865049221372352
+    second: mapa_dos_46
+  - first:
+      213: -7472923401853867783
+    second: mapa_dos_47
+  - first:
+      213: 3462175289893270526
+    second: mapa_dos_48
+  - first:
+      213: 297832823732668472
+    second: mapa_dos_49
+  - first:
+      213: 2947308313465889091
+    second: mapa_dos_50
+  - first:
+      213: -8117719179230332686
+    second: mapa_dos_51
+  - first:
+      213: 7245143018883757298
+    second: mapa_dos_52
+  - first:
+      213: -5101295219820997571
+    second: mapa_dos_53
+  - first:
+      213: 3188049311925669928
+    second: mapa_dos_54
+  - first:
+      213: 3015468331569140353
+    second: mapa_dos_55
+  - first:
+      213: -3448194702485395602
+    second: mapa_dos_56
+  - first:
+      213: -403357768264736364
+    second: mapa_dos_57
+  - first:
+      213: 3086461017964276113
+    second: mapa_dos_58
+  - first:
+      213: 5199263597860994159
+    second: mapa_dos_59
+  - first:
+      213: 7823259683998539023
+    second: mapa_dos_60
+  - first:
+      213: 2834792132611823916
+    second: mapa_dos_61
+  - first:
+      213: -90426001391025201
+    second: mapa_dos_62
+  - first:
+      213: -6251306307151842656
+    second: mapa_dos_63
+  - first:
+      213: 6226620724702237127
+    second: mapa_dos_64
+  - first:
+      213: -5464169374570801854
+    second: mapa_dos_65
+  - first:
+      213: 4245797198133599568
+    second: mapa_dos_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mapa_dos_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1415
+        width: 238
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d82661067983eb0800000000000000
+      internalID: -4739872168859234945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_1
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1415
+        width: 240
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e149c4f959b6db0800000000000000
+      internalID: -4797576466616017385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_2
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1417
+        width: 119
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a9ffc5654407550800000000000000
+      internalID: 6156495828333599313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_3
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1417
+        width: 237
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d4d0a5f10b837d0800000000000000
+      internalID: -2938405108157952711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_4
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1597
+        width: 238
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc55dbd36194a190800000000000000
+      internalID: -7952071183953470285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_5
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 1419
+        width: 595
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ede6d51ccb5fa70800000000000000
+      internalID: 8860195380603575919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_6
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1419
+        width: 119
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9b7b5a487843e40800000000000000
+      internalID: 5635278037533047291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_7
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1419
+        width: 48
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeb180788f2b1cd0800000000000000
+      internalID: -2586421297944609041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_8
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 1617
+        width: 32
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e888951a1b7c09e0800000000000000
+      internalID: -1653811611190130462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_9
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 1419
+        width: 40
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0908a3019e63e70800000000000000
+      internalID: 9094712753431548118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_10
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1417
+        width: 117
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6ba46546579a520800000000000000
+      internalID: 2713829324272350967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_11
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1417
+        width: 235
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee94ee9d5131d3b10800000000000000
+      internalID: 1962745997174917614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 992
+        width: 240
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec533e4f2b1fb1de0800000000000000
+      internalID: -1361228711434439218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 992
+        width: 236
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d37bba2d09d3d9e0800000000000000
+      internalID: -1597694792211663912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_14
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 992
+        width: 115
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fd808644ed50e80800000000000000
+      internalID: -8212913960055677154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_15
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 992
+        width: 117
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef10f687cf2ec0300800000000000000
+      internalID: 219800055814488574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_16
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 992
+        width: 235
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9702c3ecbdd71bed0800000000000000
+      internalID: -2399998743400406919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_17
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 992
+        width: 238
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bb1bd8224dfc100800000000000000
+      internalID: 130556159088245556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_18
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 992
+        width: 359
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c007adeac85e40980800000000000000
+      internalID: -8573475398214848500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_19
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 992
+        width: 238
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7c58c9c7431ace0800000000000000
+      internalID: -1395776699701540931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_20
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 992
+        width: 238
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd75fc5c1d5c230c0800000000000000
+      internalID: -4597394764834318372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_21
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1231
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6243804acfabfc60800000000000000
+      internalID: 7853063658451190381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_22
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1300
+        width: 123
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fbe02671d5593e0800000000000000
+      internalID: -2047628100559257724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_23
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1231
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6f75bf7df0d6db0800000000000000
+      internalID: -4797160607770478871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_24
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1056
+        width: 40
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39950a115a9b3aa20800000000000000
+      internalID: 3072503489413274003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_25
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 1056
+        width: 62
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b16d4dde4e47f4b0800000000000000
+      internalID: -5406766727007739468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 687
+        width: 240
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5700acd16ee6e2830800000000000000
+      internalID: 4048295049673965685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_27
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 740
+        width: 236
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05859d6b116120920800000000000000
+      internalID: 2954948570846419024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_28
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 666
+        width: 238
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70e08bd2f6b5a460800000000000000
+      internalID: 7252403929131049084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_29
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 630
+        width: 238
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd705f2fe6a43340800000000000000
+      internalID: 4842679045551324669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_30
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 647
+        width: 238
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8861b879375958d30800000000000000
+      internalID: 4433113731912373896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_31
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 592
+        width: 361
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82ac4402635c9730800000000000000
+      internalID: 4007169448896930445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_32
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 594
+        width: 240
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fd3aaa44541aca0800000000000000
+      internalID: -6007444266712572094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_33
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 770
+        width: 236
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5c6acfad4a784e0800000000000000
+      internalID: -1979432250757429830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_34
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 870
+        width: 117
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb42341b38115540800000000000000
+      internalID: 4994800103751568317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_35
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 870
+        width: 119
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3155ec4d0c94c90800000000000000
+      internalID: -7184999710265633871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_36
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 896
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d14ffb2afde01d0800000000000000
+      internalID: -3382520380010521261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_37
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 673
+        width: 119
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aab2cd6fb090f1f0800000000000000
+      internalID: -1013150764303730016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_38
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 747
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51428d13510a44f90800000000000000
+      internalID: -6970270310371679211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_40
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 406
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d2c0af28e586330800000000000000
+      internalID: 3704314610146094425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 394
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af9993caac5dcc10800000000000000
+      internalID: 2075416891783487397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_42
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 399
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05971b064d72dc00800000000000000
+      internalID: 923938613351650572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_43
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 400
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c03c3cd76e69450800000000000000
+      internalID: 6095312573522185219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_44
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 378
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70b9b5d85f06a920800000000000000
+      internalID: 3001103075906269307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_45
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 378
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660671b08051f0b50800000000000000
+      internalID: 6561486306392105062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_46
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 378
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046ee077ebdd868e0800000000000000
+      internalID: -1699865049221372352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_47
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 378
+        width: 119
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8ebce52c7da4890800000000000000
+      internalID: -7472923401853867783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_48
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 380
+        width: 114
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef33930351e1c0030800000000000000
+      internalID: 3462175289893270526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_49
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 368
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838890d006d122400800000000000000
+      internalID: 297832823732668472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_50
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 368
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341a0bbab41f6e820800000000000000
+      internalID: 2947308313465889091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_51
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 161
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8b99f7a61185f80800000000000000
+      internalID: -8117719179230332686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_52
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 373
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4b773703beb8460800000000000000
+      internalID: 7245143018883757298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_53
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 392
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34db20860f8439b0800000000000000
+      internalID: -5101295219820997571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_54
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 425
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82012cb45f93e3c20800000000000000
+      internalID: 3188049311925669928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_55
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 413
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1825e9e887819d920800000000000000
+      internalID: 3015468331569140353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_56
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 423
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6769f9ff2d8520d0800000000000000
+      internalID: -3448194702485395602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_57
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 254
+        width: 97
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491af213f3cf66af0800000000000000
+      internalID: -403357768264736364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_58
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 375
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199e9dc61ff45da20800000000000000
+      internalID: 3086461017964276113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_59
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 392
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cbf1402be772840800000000000000
+      internalID: 5199263597860994159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 271
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d1e52bb3dc19c60800000000000000
+      internalID: 7823259683998539023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_61
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 266
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29566cdc64375720800000000000000
+      internalID: 2834792132611823916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_62
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 254
+        width: 76
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc301a4e70ebebef0800000000000000
+      internalID: -90426001391025201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_63
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 257
+        width: 80
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a23e04d806ee39a0800000000000000
+      internalID: -6251306307151842656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_64
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 252
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c156fe1f86696650800000000000000
+      internalID: 6226620724702237127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_65
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 254
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245932c77ee5b24b0800000000000000
+      internalID: -5464169374570801854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_66
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 249
+        width: 107
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d1a177e0a1cea30800000000000000
+      internalID: 4245797198133599568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_67
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 250
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b55acac9f553d14196f361f9eea24ee
+      internalID: 597812587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_68
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 254
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60d1846253c4014e94e44a87244cf2c
+      internalID: 801427525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_69
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 281
+        width: 88
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f99308130ce2ab47bce0f125c479ef2
+      internalID: -769190248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_70
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 252
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7d47adcc019674597a839ab920f993
+      internalID: -843288743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_71
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 252
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f369212192102345a17ac1c407b0a44
+      internalID: -354249719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_72
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 262
+        width: 114
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493c991b6f41d264eb3f36e785be6e51
+      internalID: 742111676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_73
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 314
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b449ed9439f566418f33507f247bc60
+      internalID: -944944940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_74
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 300
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7af8112e38f78e408d260b415834b33
+      internalID: 874134931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_75
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 268
+        width: 114
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b43abdb1e0857741b3ef59a0441324b
+      internalID: -1356209919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_76
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 138
+        width: 96
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ab4a0c40c30054997db6bbfa5e194f
+      internalID: -1090495192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_77
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 255
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58102600dcb15c747bb5633f47202d42
+      internalID: 1309172059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_78
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 270
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef719815b1f29a54bb4b01554c7450bf
+      internalID: 360174270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_79
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 428
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a908ffa06f8fb4e9b40426c072ec4c
+      internalID: -939320950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_80
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 268
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c820c944f28b8428570d4021b9f454
+      internalID: -646533719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_81
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 133
+        width: 109
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6e6d09b26e4854290482356ce747b9
+      internalID: 71580977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_82
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 148
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06c3af2b68ce324d9d36e4f72d5d357
+      internalID: 402179126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_83
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 136
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bd3fb36c4c49b4c95ab9eb2d2ca0fe
+      internalID: -143613091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_84
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 135
+        width: 83
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9df2ee9db42204ca0677e6b30ea271
+      internalID: -1423488864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_85
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 133
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126da6af09ed28c419877647c39d6ad2
+      internalID: 451361748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_86
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 135
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1414737df4136fd46977d2697f5aeae1
+      internalID: 977476971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_87
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 133
+        width: 114
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084ae2f62df2b1c4aad71ee088e04862
+      internalID: -1613258488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_88
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 133
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5afe88745bb3649a346354dcbd0f55
+      internalID: -796310783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_89
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 133
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783e2af7f44c59c45a336ced45d3b965
+      internalID: 1396534521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_90
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 135
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b44ce11eed711f4cbe6eb27ffe53a5b
+      internalID: 557303388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_91
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 135
+        width: 118
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb00e01f4caf464996bcf52e844fd07
+      internalID: -515096853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_93
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 135
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86381d10a93159d41b61ffcaefc69043
+      internalID: -634904799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_94
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 143
+        width: 111
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f27d98756f506f4ebc64f2adf444a61
+      internalID: -47121520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_95
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 159
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446c6c37acc12624f96adf240f5c96a3
+      internalID: 166013589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_96
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 143
+        width: 114
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5086e828e7f82478dfbd677b16cd85
+      internalID: -267812578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_98
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 157
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c34d6dad4304de45b654e300d39fa0a
+      internalID: 2099360865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_99
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 142
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a6e27737b196f44b0c04512b14f947
+      internalID: -1524428654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_100
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 110
+        width: 139
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6448df5233892e7449a24f691176918b
+      internalID: -651386184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 402
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9882b4ea01d061246b091e464cae449d
+      internalID: 4253036634942263968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_dos_92
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 1436
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91578bcd09892e24db5e14f0c5580bc6
+      internalID: 504286812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 45db0e9ebd9938b46ba6abd04e98cc31
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mapa_dos_0: -4739872168859234945
+      mapa_dos_1: -4797576466616017385
+      mapa_dos_10: 2713829324272350967
+      mapa_dos_100: -651386184
+      mapa_dos_101: -709398036
+      mapa_dos_11: 1962745997174917614
+      mapa_dos_12: -1361228711434439218
+      mapa_dos_13: -1597694792211663912
+      mapa_dos_14: -8212913960055677154
+      mapa_dos_15: 219800055814488574
+      mapa_dos_16: -2399998743400406919
+      mapa_dos_17: 130556159088245556
+      mapa_dos_18: -8573475398214848500
+      mapa_dos_19: -1395776699701540931
+      mapa_dos_2: 6156495828333599313
+      mapa_dos_20: -4597394764834318372
+      mapa_dos_21: 7853063658451190381
+      mapa_dos_22: -2047628100559257724
+      mapa_dos_23: -4797160607770478871
+      mapa_dos_24: 3072503489413274003
+      mapa_dos_25: -5406766727007739468
+      mapa_dos_26: 4048295049673965685
+      mapa_dos_27: 2954948570846419024
+      mapa_dos_28: 7252403929131049084
+      mapa_dos_29: 4842679045551324669
+      mapa_dos_3: -2938405108157952711
+      mapa_dos_30: 4433113731912373896
+      mapa_dos_31: 4007169448896930445
+      mapa_dos_32: -6007444266712572094
+      mapa_dos_33: -1979432250757429830
+      mapa_dos_34: 4994800103751568317
+      mapa_dos_35: -7184999710265633871
+      mapa_dos_36: -3382520380010521261
+      mapa_dos_37: -1013150764303730016
+      mapa_dos_38: -6970270310371679211
+      mapa_dos_39: 4253036634942263968
+      mapa_dos_4: -7952071183953470285
+      mapa_dos_40: 3704314610146094425
+      mapa_dos_41: 2075416891783487397
+      mapa_dos_42: 923938613351650572
+      mapa_dos_43: 6095312573522185219
+      mapa_dos_44: 3001103075906269307
+      mapa_dos_45: 6561486306392105062
+      mapa_dos_46: -1699865049221372352
+      mapa_dos_47: -7472923401853867783
+      mapa_dos_48: 3462175289893270526
+      mapa_dos_49: 297832823732668472
+      mapa_dos_5: 8860195380603575919
+      mapa_dos_50: 2947308313465889091
+      mapa_dos_51: -8117719179230332686
+      mapa_dos_52: 7245143018883757298
+      mapa_dos_53: -5101295219820997571
+      mapa_dos_54: 3188049311925669928
+      mapa_dos_55: 3015468331569140353
+      mapa_dos_56: -3448194702485395602
+      mapa_dos_57: -403357768264736364
+      mapa_dos_58: 3086461017964276113
+      mapa_dos_59: 5199263597860994159
+      mapa_dos_6: 5635278037533047291
+      mapa_dos_60: 7823259683998539023
+      mapa_dos_61: 2834792132611823916
+      mapa_dos_62: -90426001391025201
+      mapa_dos_63: -6251306307151842656
+      mapa_dos_64: 6226620724702237127
+      mapa_dos_65: -5464169374570801854
+      mapa_dos_66: 4245797198133599568
+      mapa_dos_67: 597812587
+      mapa_dos_68: 801427525
+      mapa_dos_69: -769190248
+      mapa_dos_7: -2586421297944609041
+      mapa_dos_70: -843288743
+      mapa_dos_71: -354249719
+      mapa_dos_72: 742111676
+      mapa_dos_73: -944944940
+      mapa_dos_74: 874134931
+      mapa_dos_75: -1356209919
+      mapa_dos_76: -1090495192
+      mapa_dos_77: 1309172059
+      mapa_dos_78: 360174270
+      mapa_dos_79: -939320950
+      mapa_dos_8: -1653811611190130462
+      mapa_dos_80: -646533719
+      mapa_dos_81: 71580977
+      mapa_dos_82: 402179126
+      mapa_dos_83: -143613091
+      mapa_dos_84: -1423488864
+      mapa_dos_85: 451361748
+      mapa_dos_86: 977476971
+      mapa_dos_87: -1613258488
+      mapa_dos_88: -796310783
+      mapa_dos_89: 1396534521
+      mapa_dos_9: 9094712753431548118
+      mapa_dos_90: 557303388
+      mapa_dos_91: -515096853
+      mapa_dos_92: 504286812
+      mapa_dos_93: -634904799
+      mapa_dos_94: -47121520
+      mapa_dos_95: 166013589
+      mapa_dos_96: -267812578
+      mapa_dos_97: -954319403
+      mapa_dos_98: 2099360865
+      mapa_dos_99: -1524428654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

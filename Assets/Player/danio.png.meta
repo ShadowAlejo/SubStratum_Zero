@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 7635d45ed94d86a40a5384e74115f08d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7005704270453340003
+    second: danio_0
+  - first:
+      213: 7173703671899474471
+    second: danio_1
+  - first:
+      213: 3729216434048866225
+    second: danio_2
+  - first:
+      213: -652981486229494196
+    second: danio_3
+  - first:
+      213: -2542675926408844682
+    second: danio_4
+  - first:
+      213: -8413218709017151205
+    second: danio_5
+  - first:
+      213: 3105352778545186713
+    second: danio_6
+  - first:
+      213: -3791158275365589289
+    second: danio_7
+  - first:
+      213: -2849628754485986789
+    second: danio_8
+  - first:
+      213: 4840629377019867541
+    second: danio_9
+  - first:
+      213: -2288099071867587585
+    second: danio_10
+  - first:
+      213: -8599170416005817872
+    second: danio_11
+  - first:
+      213: 9018271373763173741
+    second: danio_12
+  - first:
+      213: -2277997358051111266
+    second: danio_13
+  - first:
+      213: -7060053932721674961
+    second: danio_14
+  - first:
+      213: -4405987901584259983
+    second: danio_15
+  - first:
+      213: 3267615851453713946
+    second: danio_16
+  - first:
+      213: 1842820184900818639
+    second: danio_17
+  - first:
+      213: -6069392337288293194
+    second: danio_18
+  - first:
+      213: -6805095982014885900
+    second: danio_19
+  - first:
+      213: 7143273661241651203
+    second: danio_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: danio_5
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 101
+        width: 248
+        height: 408
+      alignment: 9
+      pivot: {x: 0.5163442, y: 0.4542028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19bc57c82e3e3b80800000000000000
+      internalID: -8413218709017151205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danio_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 100
+        width: 269
+        height: 267
+      alignment: 9
+      pivot: {x: 0.5163442, y: 0.4542028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e8558ed47e85d20800000000000000
+      internalID: 3267615851453713946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danio_17
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 104
+        width: 268
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5163442, y: 0.4542028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6dee9c133039910800000000000000
+      internalID: 1842820184900818639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danio_19
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 95
+        width: 274
+        height: 347
+      alignment: 9
+      pivot: {x: 0.5163442, y: 0.4542028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0419c06e6f40e6d4eb221c42700814d6
+      internalID: -6805095982014885900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danio_12
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 104
+        width: 267
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5163442, y: 0.4542028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d622671d42a1b3438a855910e6e612a
+      internalID: 9018271373763173741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danio_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 104
+        width: 265
+        height: 261
+      alignment: 9
+      pivot: {x: 0.5163442, y: 0.4542028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb010189d935a7f43927b80eaffa62f8
+      internalID: -4405987901584259983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 136a6477d1b6df048953a7bd8a3a2bcb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5163441896438599,"y":0.454202800989151},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      danio_0: -7005704270453340003
+      danio_1: 7173703671899474471
+      danio_10: -2288099071867587585
+      danio_11: -8599170416005817872
+      danio_12: 9018271373763173741
+      danio_13: -2277997358051111266
+      danio_14: -7060053932721674961
+      danio_15: -4405987901584259983
+      danio_16: 3267615851453713946
+      danio_17: 1842820184900818639
+      danio_18: -6069392337288293194
+      danio_19: -6805095982014885900
+      danio_2: 3729216434048866225
+      danio_3: -652981486229494196
+      danio_4: -2542675926408844682
+      danio_5: -8413218709017151205
+      danio_6: 3105352778545186713
+      danio_7: -3791158275365589289
+      danio_8: -2849628754485986789
+      danio_9: 4840629377019867541
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

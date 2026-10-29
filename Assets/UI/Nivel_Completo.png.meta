@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: 05b8c9b5c9a42b64fb66c31d81dc4e63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3522922420610172893
+    second: Nivel_Completo_0
+  - first:
+      213: -1006575800224404529
+    second: Nivel_Completo_1
+  - first:
+      213: -1030781255309542242
+    second: Nivel_Completo_2
+  - first:
+      213: 5802965570202859758
+    second: Nivel_Completo_3
+  - first:
+      213: -3914605588298445312
+    second: Nivel_Completo_4
+  - first:
+      213: -1387277112653040694
+    second: Nivel_Completo_5
+  - first:
+      213: -8538675736644041203
+    second: Nivel_Completo_6
+  - first:
+      213: -8368169044024565205
+    second: Nivel_Completo_7
+  - first:
+      213: -4121509975836808404
+    second: Nivel_Completo_8
+  - first:
+      213: -4578602122002528481
+    second: Nivel_Completo_9
+  - first:
+      213: 7857286691080367649
+    second: Nivel_Completo_10
+  - first:
+      213: -1146057843664305006
+    second: Nivel_Completo_11
+  - first:
+      213: -6698977561015376736
+    second: Nivel_Completo_12
+  - first:
+      213: 8688839635627375685
+    second: Nivel_Completo_13
+  - first:
+      213: 407097595396555224
+    second: Nivel_Completo_14
+  - first:
+      213: 5007966983686523810
+    second: Nivel_Completo_15
+  - first:
+      213: -244793127429682556
+    second: Nivel_Completo_16
+  - first:
+      213: 7654603454237500188
+    second: Nivel_Completo_17
+  - first:
+      213: -5395167487200396568
+    second: Nivel_Completo_18
+  - first:
+      213: -7557667517559279115
+    second: Nivel_Completo_19
+  - first:
+      213: 6625336180822621192
+    second: Nivel_Completo_20
+  - first:
+      213: 5214860333230141593
+    second: Nivel_Completo_21
+  - first:
+      213: -6362738148218066910
+    second: Nivel_Completo_22
+  - first:
+      213: -4393703469186657960
+    second: Nivel_Completo_23
+  - first:
+      213: 317761990395057996
+    second: Nivel_Completo_24
+  - first:
+      213: 5689231004784217677
+    second: Nivel_Completo_25
+  - first:
+      213: 2313877775002251208
+    second: Nivel_Completo_26
+  - first:
+      213: 4187981357916064302
+    second: Nivel_Completo_27
+  - first:
+      213: -9210274077638689208
+    second: Nivel_Completo_28
+  - first:
+      213: 1203906750412781052
+    second: Nivel_Completo_29
+  - first:
+      213: 1816640084146341367
+    second: Nivel_Completo_30
+  - first:
+      213: -3506511156597222784
+    second: Nivel_Completo_31
+  - first:
+      213: 3979341587544733314
+    second: Nivel_Completo_32
+  - first:
+      213: 4027983499077168351
+    second: Nivel_Completo_33
+  - first:
+      213: -1688994104325737404
+    second: Nivel_Completo_34
+  - first:
+      213: -3283008781168926437
+    second: Nivel_Completo_35
+  - first:
+      213: 1861797839064453284
+    second: Nivel_Completo_36
+  - first:
+      213: -859619875190519022
+    second: Nivel_Completo_37
+  - first:
+      213: 6345605010382610768
+    second: Nivel_Completo_38
+  - first:
+      213: 2398299765068349960
+    second: Nivel_Completo_39
+  - first:
+      213: 2306906498934006829
+    second: Nivel_Completo_40
+  - first:
+      213: 5688621317534291798
+    second: Nivel_Completo_41
+  - first:
+      213: -8426648687572755816
+    second: Nivel_Completo_42
+  - first:
+      213: -7928605564295247662
+    second: Nivel_Completo_43
+  - first:
+      213: -2168222757457292126
+    second: Nivel_Completo_44
+  - first:
+      213: -7648122873292311769
+    second: Nivel_Completo_45
+  - first:
+      213: 4450771455943226739
+    second: Nivel_Completo_46
+  - first:
+      213: -5343704110021430035
+    second: Nivel_Completo_47
+  - first:
+      213: -539660934568579746
+    second: Nivel_Completo_48
+  - first:
+      213: -1837184020928624891
+    second: Nivel_Completo_49
+  - first:
+      213: -8296621473514239950
+    second: Nivel_Completo_50
+  - first:
+      213: 455204495946072539
+    second: Nivel_Completo_51
+  - first:
+      213: -4746990691776120176
+    second: Nivel_Completo_52
+  - first:
+      213: -8661585104796753224
+    second: Nivel_Completo_53
+  - first:
+      213: 3027686936906336266
+    second: Nivel_Completo_54
+  - first:
+      213: 7055476054197634539
+    second: Nivel_Completo_55
+  - first:
+      213: -4653838552574997287
+    second: Nivel_Completo_56
+  - first:
+      213: -6959588831501976006
+    second: Nivel_Completo_57
+  - first:
+      213: 996330772853393941
+    second: Nivel_Completo_58
+  - first:
+      213: -3471705627495087019
+    second: Nivel_Completo_59
+  - first:
+      213: -7253091151312826036
+    second: Nivel_Completo_60
+  - first:
+      213: 3526069933369456830
+    second: Nivel_Completo_61
+  - first:
+      213: -993777001082979913
+    second: Nivel_Completo_62
+  - first:
+      213: -6467074134851626151
+    second: Nivel_Completo_63
+  - first:
+      213: 1117695843366924715
+    second: Nivel_Completo_64
+  - first:
+      213: 3009613830482867140
+    second: Nivel_Completo_65
+  - first:
+      213: 8733394571436039210
+    second: Nivel_Completo_66
+  - first:
+      213: 5584608110592485920
+    second: Nivel_Completo_67
+  - first:
+      213: 1227601859755296315
+    second: Nivel_Completo_68
+  - first:
+      213: -49913673386687645
+    second: Nivel_Completo_69
+  - first:
+      213: -6230504729712704556
+    second: Nivel_Completo_70
+  - first:
+      213: 6248558759902395662
+    second: Nivel_Completo_71
+  - first:
+      213: 8200417250747223347
+    second: Nivel_Completo_72
+  - first:
+      213: 7397371684474278814
+    second: Nivel_Completo_73
+  - first:
+      213: -7951174906724592189
+    second: Nivel_Completo_74
+  - first:
+      213: 5645715195580995708
+    second: Nivel_Completo_75
+  - first:
+      213: -1058115161337125241
+    second: Nivel_Completo_76
+  - first:
+      213: 8115922138090429700
+    second: Nivel_Completo_77
+  - first:
+      213: -1163781803229564384
+    second: Nivel_Completo_78
+  - first:
+      213: -3881808103839081600
+    second: Nivel_Completo_79
+  - first:
+      213: 6305091269356877702
+    second: Nivel_Completo_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nivel_Completo_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 938
+        width: 595
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328754449b01c1fc0800000000000000
+      internalID: -3522922420610172893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nivel_Completo_1
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 938
+        width: 610
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a4587b0d5b7574596113869079c21e
+      internalID: -1006575800224404529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nivel_Completo_2
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 926
+        width: 619
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3661a38ea26e2834cbbb16fd8d6c62aa
+      internalID: -1030781255309542242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nivel_Completo_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 485
+        width: 637
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f264fca2077fb409454e5004b35f16
+      internalID: 5802965570202859758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nivel_Completo_4
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 452
+        width: 737
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254211e0cc9c04f4d8671db4bbb94ae6
+      internalID: -3914605588298445312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nivel_Completo_5
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 480
+        width: 629
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de2cbdf1b371c542b24616eafcaafcf
+      internalID: -1387277112653040694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nivel_Completo_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 90
+        width: 604
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa35666386cdda42a5153faa52d6d59
+      internalID: -8538675736644041203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nivel_Completo_7
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 86
+        width: 634
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eda8ff9be9791f49a609deaf9e4ce25
+      internalID: -8368169044024565205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nivel_Completo_8
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 87
+        width: 608
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc5077cd30506144b51e5f1b5f9fb63
+      internalID: -4121509975836808404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a3023c8c4dead354aa504a567b9a3672
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":2400.0,"y":1340.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":3,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Nivel_Completo_0: -3522922420610172893
+      Nivel_Completo_1: -1006575800224404529
+      Nivel_Completo_2: -1030781255309542242
+      Nivel_Completo_3: 5802965570202859758
+      Nivel_Completo_4: -3914605588298445312
+      Nivel_Completo_5: -1387277112653040694
+      Nivel_Completo_6: -8538675736644041203
+      Nivel_Completo_7: -8368169044024565205
+      Nivel_Completo_8: -4121509975836808404
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
