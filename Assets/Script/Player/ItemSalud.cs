@@ -8,7 +8,7 @@ public class ItemSalud : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         // Verifica si el objeto que entra al Trigger tiene la etiqueta "Player"
-        if (collision.CompareTag("player"))
+        if (collision.CompareTag("Player"))
         {
             PlayerController2D jugador = collision.GetComponent<PlayerController2D>();
 
